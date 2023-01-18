@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.body{
+    
+    width: 100%;
+    
+    background-position: center;
+    background-size: cover;
+}
+.navbar ul li a:hover{
+    border-bottom: 2px solid ;
+    color: rgb(225, 240, 23);
+}
+.navbar li{
+    color:rgb(247, 245, 249);
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.container .card{
+    background-color: rgb(240, 237, 230);
+    display: flex;
+}
